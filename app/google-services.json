@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837875864564",
+    "firebase_url": "https://androidrestau-default-rtdb.firebaseio.com",
+    "project_id": "androidrestau",
+    "storage_bucket": "androidrestau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837875864564:android:8eaaa1e2899b1ff9429fa1",
+        "android_client_info": {
+          "package_name": "com.example.projetrestau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837875864564-vsjubugc61l9sf4u69okrvsh8h1mbvqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57ZjXvuTMK5nhUHM-soHGIK3m8XipS3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837875864564-vsjubugc61l9sf4u69okrvsh8h1mbvqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
